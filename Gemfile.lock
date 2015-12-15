@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    lahar (0.1.0)
+      httparty (~> 0.12)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httparty (0.13.7)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.3)
+    multi_xml (0.5.5)
+    rake (10.4.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.9)
+  lahar!
+  rake (~> 10.0)
