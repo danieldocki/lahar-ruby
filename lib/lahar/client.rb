@@ -59,7 +59,7 @@ module Lahar
     private
 
     def base_url
-      "http://app.lahar.com.br/api"
+      "https://app.lahar.com.br/api"
     end
 
     def token_hash
